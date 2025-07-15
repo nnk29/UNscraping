@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Target URL
+# Target URL - This was one of the web pages I checked 
 url = 'https://www.uncdf.org/inclusiveinnovation/challenges'
 
 # Send HTTP request
